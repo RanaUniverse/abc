@@ -1,0 +1,3 @@
+I make this file after i did add b.txt and then commit this but not push.
+
+so i think after i will do git push after i will again add this c file and then do push once. lets check this.
