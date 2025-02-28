@@ -1,0 +1,6 @@
+This is a b file this i made in the terminal and now think to use this and 
+
+git add . 
+git commit 
+...
+git push
